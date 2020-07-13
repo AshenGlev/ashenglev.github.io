@@ -1,0 +1,37 @@
+html {
+    font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Bebas Neue', cursive;
+  }
+li:hover {
+    color: blueviolet
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #FFB2F9;
+  }
+  body {
+    width: 1500px;
+    margin: 0 auto;
+    background-color: #FECCFA;
+    padding: 0 20px 20px 20px;
+    border: 3px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: black;
+    text-shadow: 3px 3px 1px grey;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
